@@ -8,13 +8,13 @@
 
 - 🔭 I’m from **Eluru,Andhra Pradesh**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java,NodeJs,OS,DBMS,CCN,CSS,HTML**
+- 💬 Ask me about **Java,NodeJs,OS,DBMS,CCN,CSS,HTML,Python**
 
 - 📫 How to reach me **srikar.a21@iiits.in**
 
-- ⚡ Fun fact **I think I am Crazy**
+- ⚡ Fun fact **My friends find me funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
