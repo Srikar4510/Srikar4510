@@ -7,7 +7,7 @@
 
 - 🔭 I’m from **Eluru,Andhra Pradesh**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Go,Testing**
 
 - 💬 Ask me about **Java,NodeJs,OS,DBMS,CCN,CSS,HTML,Python**
 
